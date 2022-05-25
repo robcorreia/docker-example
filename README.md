@@ -17,6 +17,10 @@ Comandos do docker
 - docker rm (nomedocontainer) para remover uma imagem
 - tag -f para forçar o comando
 - docker image ls (listas todas images do computador)
+- docker system prune (remove tudo que nao esta sendo utilizado)
+- 
+    
+    
 
 ## criação de uma nova imagem
 
